@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+This site of Real Estate Agency was refactored.  
+Online version of the site available [here](https://sergeikhrustalev.github.io)
 
 # Project Goals
 
