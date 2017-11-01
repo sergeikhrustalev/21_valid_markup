@@ -1,7 +1,7 @@
 # Site of Real Estate Agency
 
 This site of Real Estate Agency was refactored.  
-Online version of the site available [here](https://sergeikhrustalev.github.io)
+Online version of the site available [here](https://sergeikhrustalev.github.io/21_valid_markup/)
 
 # Project Goals
 
